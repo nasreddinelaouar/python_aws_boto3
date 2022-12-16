@@ -10,3 +10,5 @@ len(bucket_list)
 
 for bucket in resource.buckets.all():
     print(bucket.name)
+    
+    
